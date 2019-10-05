@@ -2787,8 +2787,6 @@ select.form-control-lg:not([size]):not([multiple]),
 }
 
 .btn {
-  padding-top: 10px !important;
-  padding-left: 10px !important;
   display: inline-block;
   font-weight: 400;
   text-align: center;
